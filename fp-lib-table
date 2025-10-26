@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "myDevices")(type "KiCad")(uri "${KIPRJMOD}/eda/kicad-footprint/myDevices.pretty")(options "")(descr ""))
+)

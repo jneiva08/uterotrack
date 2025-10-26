@@ -1,0 +1,256 @@
+(footprint "Battery_THT_Enercig_TN14430C"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Enercig TN14430c - 650mAh - 1.8A (https://www.nkon.nl/pt/rechargeable/li-ion/overige-formaten/enercig-tn14430c-650mah-1-8a.html)")
+	(tags "14430")
+	(property "Reference" "REF**"
+		(at 0 -8.5 0)
+		(layer "F.SilkS")
+		(uuid "3f59aafc-eabb-4564-a434-40eae8a5055c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Battery_THT_Enercig_TN14430C"
+		(at 0 8.5 0)
+		(layer "F.Fab")
+		(uuid "4fd373a1-572e-4eb2-bf9c-1f1a186aa844")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ceb3b59-f98d-491e-ac44-f1faf77cd517")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69362c5f-384e-4493-96c7-8e9d88d14bb7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -21.61 -7.11)
+		(end -21.61 -3.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "871759d4-47b0-484e-a5be-d561fdc30cd2")
+	)
+	(fp_line
+		(start -21.61 -7.11)
+		(end 21.61 -7.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "294fb2d8-1c50-49e3-ba24-2d0d1bc3026c")
+	)
+	(fp_line
+		(start -21.61 3.26)
+		(end -21.61 7.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e36f13f5-e9b1-48c4-8c59-7cb4ea12d5b8")
+	)
+	(fp_line
+		(start -21.61 7.11)
+		(end 21.61 7.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f64feaf4-ea29-4a21-8d72-267f6f143abd")
+	)
+	(fp_line
+		(start 21.61 -7.11)
+		(end 21.61 -3.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9f80d96-2d92-401b-82dd-1d7afe5297a0")
+	)
+	(fp_line
+		(start 21.61 3.26)
+		(end 21.61 7.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad879c44-eaae-4caf-8426-61d6daa228ee")
+	)
+	(fp_line
+		(start -23.05 -7.5)
+		(end 23.05 -7.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "efa2276b-a915-4a9a-b30e-25a712dd5af5")
+	)
+	(fp_line
+		(start -23.05 7.5)
+		(end -23.05 -7.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cac9861f-9767-4247-b99b-3ec0efa1b424")
+	)
+	(fp_line
+		(start -23.05 7.5)
+		(end 23.05 7.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1de44af2-4c6b-4b8e-a470-8b522e5457e6")
+	)
+	(fp_line
+		(start 23.05 -7.5)
+		(end 23.05 7.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4d25f621-f0d9-4b28-8ccf-efd3c6fdef25")
+	)
+	(fp_line
+		(start -21.5 -7)
+		(end -21.5 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "39220b27-fd5c-47f5-9863-9c669cc81f75")
+	)
+	(fp_line
+		(start -21.5 -7)
+		(end 21.5 -7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aef2d878-58ee-4064-bfc5-e2b21113dcf4")
+	)
+	(fp_line
+		(start -21.5 7)
+		(end 21.5 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "16643ecb-ea39-454f-8f26-578b1c6b9258")
+	)
+	(fp_line
+		(start 21.5 -7)
+		(end 21.5 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aa29b09b-0f70-411e-9b67-c1587df8c8a4")
+	)
+	(fp_text user "-"
+		(at 23 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "376ef291-b45f-4ff1-9b03-85173a64f54f")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at -23 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "b03f439e-3725-4e7f-8b8f-4ab9cc23327e")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7454703b-2594-4511-a891-17261c18fee3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -21.65 0)
+		(size 1.8 6)
+		(drill oval 0.6 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "49caf012-8fc0-4899-a6d5-a38ae3f683e8")
+	)
+	(pad "2" thru_hole oval
+		(at 21.65 0)
+		(size 1.8 6)
+		(drill oval 0.6 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1f71ef16-9a91-4997-9695-d327594aad8c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../eda/kicad-packages3D/myDevices.3dshapes/Battery_THT_18650.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

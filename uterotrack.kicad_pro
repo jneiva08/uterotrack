@@ -25,8 +25,12 @@
     "equivalence_files": []
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "myDevices"
+    ],
+    "pinned_symbol_libs": [
+      "myDevices"
+    ]
   },
   "meta": {
     "filename": "uterotrack.kicad_pro",
