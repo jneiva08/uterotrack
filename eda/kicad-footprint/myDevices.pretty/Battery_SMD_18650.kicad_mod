@@ -1,0 +1,252 @@
+(footprint "Battery_SMD_18650"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Battery 18650 SMD")
+	(tags "18650 SMD")
+	(property "Reference" "REF**"
+		(at 0 -10.5 0)
+		(layer "F.SilkS")
+		(uuid "e2f90d36-f3ef-4015-a5de-c3ad76fa8b2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Battery_SMD_18650"
+		(at 0 10.5 0)
+		(layer "F.Fab")
+		(uuid "0aec4835-412e-45bd-92e8-359403a1de9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32504265-4a4a-4a76-9ba6-0e2a0008ca7b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "719244be-d8fd-42b5-b42d-cb5bc03945b4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -32.61 -9.11)
+		(end -32.61 -3.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fee78230-1eaf-47c7-bf2b-08711500f375")
+	)
+	(fp_line
+		(start -32.61 -9.11)
+		(end 32.61 -9.11)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2e711921-724b-48b0-a7d3-6a0e03fe1ab9")
+	)
+	(fp_line
+		(start -32.61 3.26)
+		(end -32.61 9.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "306baccb-07a8-4ae7-9ef3-a9a07e5631cd")
+	)
+	(fp_line
+		(start -32.61 9.11)
+		(end 32.61 9.11)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e06964c4-859a-41a1-9bab-b8a2e41441ac")
+	)
+	(fp_line
+		(start 32.61 -9.1)
+		(end 32.61 -3.26)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5703344f-7578-4736-abaa-8f327a429c75")
+	)
+	(fp_line
+		(start 32.61 3.26)
+		(end 32.61 9.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e7d627a-4663-4564-8c9d-622bcaaf5f34")
+	)
+	(fp_line
+		(start -36.75 -9.5)
+		(end -36.75 9.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4d410440-8e3b-45ae-bc55-210cba71121c")
+	)
+	(fp_line
+		(start -36.75 -9.5)
+		(end 36.75 -9.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "443204ee-cd8b-4d71-9612-fa6bfb7a7d63")
+	)
+	(fp_line
+		(start -36.75 9.5)
+		(end 36.75 9.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "faa7b8df-8869-41c1-95a2-82b71fbccef7")
+	)
+	(fp_line
+		(start 36.75 -9.5)
+		(end 36.75 9.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "090d8ff4-2a49-4c47-9d51-666a0da6b027")
+	)
+	(fp_line
+		(start -32.5 -9)
+		(end -32.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e55178fa-d4ea-4f33-9db9-d828dc451858")
+	)
+	(fp_line
+		(start -32.5 -9)
+		(end 32.5 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "56d75688-a593-43b7-9c77-68c1316dc857")
+	)
+	(fp_line
+		(start -32.5 9)
+		(end 32.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "c6c79ef5-f541-4cd9-9773-9f3d4bd58c67")
+	)
+	(fp_line
+		(start 32.5 -9)
+		(end 32.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0938aecd-3b8f-466a-9194-ec0a571f3481")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "3a322fee-d48f-4ea8-9cf5-e4c1b1ebca81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at -34 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "3f6ae4c9-7a85-4507-b7a9-e1ddbcb2c665")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.1)
+			)
+		)
+	)
+	(fp_text user "-"
+		(at 34 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "c9c0d980-f52f-4bc2-acbb-d83c23a510a5")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -34.45 0)
+		(size 3.6 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "44bf8436-8e66-417e-9956-3fd0a61cddd6")
+	)
+	(pad "2" smd rect
+		(at 34.45 0)
+		(size 3.6 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a155a50-b524-4c45-aedd-888b93008549")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/eda/kicad-packages3D/myDevices.3dshapes/Battery_SMD_18650.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

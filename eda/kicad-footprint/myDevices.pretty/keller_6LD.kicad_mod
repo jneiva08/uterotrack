@@ -1,0 +1,128 @@
+(footprint "keller_6LD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Piezoresistive OEM Pressure Transmitters ,https://download.keller-druck.com/api/download/2LfcGMzMbeHdjFbyUd5DWA/en/2021-07.pdf")
+	(property "Reference" "REF**"
+		(at 0 -8 0)
+		(layer "F.SilkS")
+		(uuid "7f3070e8-f328-4683-8ebf-715323a36c10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Keller"
+		(at 0 8 0)
+		(layer "F.Fab")
+		(uuid "32f8281f-cb99-4afb-93aa-702567a8435e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bdaacf1f-6ebb-4c18-8966-a3197f6482c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "edb37713-fa33-4466-b3d9-568add995a18")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 6.61 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "65bb2c2e-70d9-4452-854b-4be50d18ef7d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 6.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f8ba1b24-5a38-46e3-86cb-8ea953ba067a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9e949673-d80c-4d0e-91fa-d6cb790bdeb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.54 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7a748012-bfaa-4330-a56b-e6798bdbbfde")
+	)
+	(pad "2" thru_hole circle
+		(at -1.8 1.8)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "87fe941d-bcb1-41fd-ae1e-686a70314bd9")
+	)
+	(pad "3" thru_hole circle
+		(at 0 2.54)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9409cd14-8149-45c7-8f9f-7763a9466b96")
+	)
+	(pad "4" thru_hole circle
+		(at 1.8 1.8)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1df0c4dd-b2e5-4671-a658-290e92f83eed")
+	)
+	(pad "5" thru_hole circle
+		(at 2.54 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "85327db2-cf13-49d5-beb5-776bc7103ec8")
+	)
+	(embedded_fonts no)
+)
