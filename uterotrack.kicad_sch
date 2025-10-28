@@ -6299,16 +6299,6 @@
 		)
 		(uuid "10b13203-68ac-4318-a8e8-a6864ee5ab2d")
 	)
-	(text "MMBT2222AWT3G"
-		(exclude_from_sim no)
-		(at 167.64 259.08 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6ce77130-bcd3-43f8-ace5-6546612cd9b5")
-	)
 	(junction
 		(at 66.04 53.34)
 		(diameter 0)
@@ -10297,7 +10287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 182.88 256.54 0)
 			(effects
 				(font
@@ -10324,7 +10314,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MMBT2222AWT3G"
+		(property "manf#" "MMBT2222ALT3G"
 			(at 187.96 259.08 0)
 			(effects
 				(font
@@ -10520,7 +10510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 175.26 241.3 0)
 			(effects
 				(font
@@ -10547,7 +10537,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MMBT2222AWT3G"
+		(property "manf#" "MMBT2222ALT3G"
 			(at 170.18 243.84 0)
 			(effects
 				(font
@@ -11510,7 +11500,7 @@
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
 		(at 190.5 234.95 0)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -11534,7 +11524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
+		(property "Footprint" "myDevices:R_Array_Convex_Panasonic_EXB38V_4x0603"
 			(at 188.468 234.95 90)
 			(effects
 				(font
@@ -11598,7 +11588,7 @@
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f"
 					(reference "RN?")
-					(unit 1)
+					(unit 4)
 				)
 			)
 		)
@@ -14688,7 +14678,7 @@
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
 		(at 180.34 234.95 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -14712,7 +14702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
+		(property "Footprint" "myDevices:R_Array_Convex_Panasonic_EXB38V_4x0603"
 			(at 178.308 234.95 90)
 			(effects
 				(font
@@ -14776,7 +14766,7 @@
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f"
 					(reference "RN?")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -16610,7 +16600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
+		(property "Footprint" "myDevices:R_Array_Convex_Panasonic_EXB38V_4x0603"
 			(at 187.452 234.95 90)
 			(effects
 				(font
@@ -17473,7 +17463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 187.96 241.3 0)
 			(effects
 				(font
@@ -17500,7 +17490,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "MMBT2222AWT3G"
+		(property "manf#" "MMBT2222ALT3G"
 			(at 193.04 243.84 0)
 			(effects
 				(font
@@ -18610,7 +18600,7 @@
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
 		(at 172.72 234.95 0)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -18634,7 +18624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
+		(property "Footprint" "myDevices:R_Array_Convex_Panasonic_EXB38V_4x0603"
 			(at 170.688 234.95 90)
 			(effects
 				(font
@@ -18698,7 +18688,7 @@
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f"
 					(reference "RN?")
-					(unit 1)
+					(unit 3)
 				)
 			)
 		)
