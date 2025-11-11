@@ -11986,7 +11986,7 @@
 				)
 			)
 		)
-		(property "Value" "SI2305"
+		(property "Value" "DMP2110UW"
 			(at 119.38 226.06 90)
 			(effects
 				(font
@@ -11994,7 +11994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
 			(at 111.76 226.06 0)
 			(effects
 				(font
@@ -12021,7 +12021,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SI2305CDS-T1-GE3"
+		(property "manf#" "DMP2110UW-7"
 			(at 114.3 231.14 0)
 			(effects
 				(font
@@ -15603,7 +15603,7 @@
 		(at 40.64 157.48 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15624,7 +15624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal"
+		(property "Footprint" "myDevices:PadArray_SMD_1x04_P1.27mm"
 			(at 40.64 157.48 0)
 			(effects
 				(font
@@ -15643,6 +15643,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 40.64 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 40.64 157.48 0)
 			(effects
 				(font
@@ -15832,7 +15841,7 @@
 				)
 			)
 		)
-		(property "Value" "SI2305"
+		(property "Value" "DMP2110UW"
 			(at 81.28 147.32 90)
 			(effects
 				(font
@@ -15840,7 +15849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
 			(at 73.66 147.32 0)
 			(effects
 				(font
@@ -15867,7 +15876,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SI2305CDS-T1-GE3"
+		(property "manf#" "DMP2110UW-7"
 			(at 76.2 152.4 0)
 			(effects
 				(font
@@ -15978,7 +15987,7 @@
 				)
 			)
 		)
-		(property "Value" "SI2305"
+		(property "Value" "DMP2110UW"
 			(at 55.88 64.77 90)
 			(effects
 				(font
@@ -15986,7 +15995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
 			(at 58.42 66.04 0)
 			(effects
 				(font
@@ -16013,7 +16022,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SI2305CDS-T1-GE3"
+		(property "manf#" "DMP2110UW-7"
 			(at 55.88 71.12 0)
 			(effects
 				(font
@@ -17308,7 +17317,7 @@
 				)
 			)
 		)
-		(property "Value" "SI2305"
+		(property "Value" "DMP2110UW"
 			(at 132.08 147.32 90)
 			(effects
 				(font
@@ -17316,7 +17325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
 			(at 139.7 147.32 0)
 			(effects
 				(font
@@ -17343,7 +17352,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SI2305CDS-T1-GE3"
+		(property "manf#" "DMP2110UW-7"
 			(at 137.16 152.4 0)
 			(effects
 				(font
@@ -17823,7 +17832,7 @@
 				)
 			)
 		)
-		(property "Value" "SI2305"
+		(property "Value" "DMP2110UW"
 			(at 297.18 63.5 90)
 			(effects
 				(font
@@ -17831,7 +17840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
 			(at 304.8 63.5 0)
 			(effects
 				(font
@@ -17858,7 +17867,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "SI2305CDS-T1-GE3"
+		(property "manf#" "DMP2110UW-7"
 			(at 302.26 68.58 0)
 			(effects
 				(font
