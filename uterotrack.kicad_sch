@@ -6680,7 +6680,7 @@
 		(uuid "e201cfd0-5cc6-468e-8a64-b523737b276a")
 	)
 	(no_connect
-		(at 241.3 134.62)
+		(at 241.3 109.22)
 		(uuid "f019bb43-9acd-46e2-9109-489272af52f2")
 	)
 	(no_connect
@@ -8683,6 +8683,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 238.76) (xy 180.34 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7edd161-1540-4743-bc0f-7d16fb880d49")
+	)
+	(wire
+		(pts
 			(xy 358.14 86.36) (xy 355.6 86.36)
 		)
 		(stroke
@@ -8883,7 +8893,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 243.84) (xy 154.94 243.84)
+			(xy 165.1 246.38) (xy 162.56 246.38)
 		)
 		(stroke
 			(width 0)
@@ -9123,7 +9133,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 109.22) (xy 241.3 109.22)
+			(xy 243.84 134.62) (xy 241.3 134.62)
 		)
 		(stroke
 			(width 0)
@@ -9133,7 +9143,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 238.76) (xy 180.34 241.3)
+			(xy 172.72 238.76) (xy 172.72 241.3)
 		)
 		(stroke
 			(width 0)
@@ -9222,7 +9232,7 @@
 		(uuid "13484bd1-82ad-40f5-a43c-0e7daa7174ef")
 	)
 	(label "Charge"
-		(at 180.34 241.3 180)
+		(at 172.72 241.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9502,7 +9512,7 @@
 		(uuid "5dec4f7a-e98c-4f5c-94a1-e524fdb12e69")
 	)
 	(label "AS5510_EN"
-		(at 243.84 109.22 0)
+		(at 243.84 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10132,7 +10142,7 @@
 		(uuid "f0220b70-7907-4842-974a-440931c7e049")
 	)
 	(label "Red"
-		(at 154.94 243.84 180)
+		(at 162.56 246.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10485,7 +10495,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:Q_NPN_BEC")
-		(at 170.18 243.84 0)
+		(at 177.8 246.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10493,7 +10503,7 @@
 		(dnp no)
 		(uuid "0a985cb2-41bf-410f-80ca-fbbb19f2cd59")
 		(property "Reference" "Q9"
-			(at 161.29 246.38 0)
+			(at 168.91 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10502,7 +10512,7 @@
 			)
 		)
 		(property "Value" "MMBT2222"
-			(at 161.29 248.92 0)
+			(at 168.91 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10511,7 +10521,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 175.26 241.3 0)
+			(at 182.88 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10520,7 +10530,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 243.84 0)
+			(at 177.8 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10529,7 +10539,7 @@
 			)
 		)
 		(property "Description" "NPN transistor, base/emitter/collector"
-			(at 170.18 243.84 0)
+			(at 177.8 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10538,7 +10548,7 @@
 			)
 		)
 		(property "manf#" "MMBT2222AWT3G"
-			(at 170.18 243.84 0)
+			(at 177.8 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12711,7 +12721,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 172.72 248.92 0)
+		(at 180.34 251.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12719,7 +12729,7 @@
 		(dnp no)
 		(uuid "4ca31553-3652-4517-b79d-484b0a613e51")
 		(property "Reference" "#PWR026"
-			(at 172.72 255.27 0)
+			(at 180.34 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12728,7 +12738,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 172.72 252.73 0)
+			(at 180.34 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12736,7 +12746,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 248.92 0)
+			(at 180.34 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12745,7 +12755,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 248.92 0)
+			(at 180.34 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12754,7 +12764,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 248.92 0)
+			(at 180.34 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18919,7 +18929,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 161.29 243.84 90)
+		(at 168.91 246.38 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18927,7 +18937,7 @@
 		(dnp no)
 		(uuid "ff32b795-ebd8-4632-8ffe-d7d998037c1c")
 		(property "Reference" "R31"
-			(at 161.29 241.3 90)
+			(at 168.91 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18935,7 +18945,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 161.29 243.84 90)
+			(at 168.91 246.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18943,7 +18953,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 161.29 245.618 90)
+			(at 168.91 248.158 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18952,7 +18962,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 243.84 0)
+			(at 168.91 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18961,7 +18971,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 161.29 243.84 0)
+			(at 168.91 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18970,7 +18980,7 @@
 			)
 		)
 		(property "manf#" "CRCW0402100KFKEDC"
-			(at 161.29 243.84 0)
+			(at 168.91 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
