@@ -10442,7 +10442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 85.09 103.378 90)
 			(effects
 				(font
@@ -10469,7 +10469,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 85.09 101.6 0)
 			(effects
 				(font
@@ -11291,7 +11291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 64.262 62.23 90)
 			(effects
 				(font
@@ -11318,7 +11318,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 66.04 62.23 0)
 			(effects
 				(font
@@ -11784,7 +11784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 50.038 90)
 			(effects
 				(font
@@ -11811,7 +11811,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06030000Z0EAC"
+		(property "manf#" "CRCW04020000Z0ED"
 			(at 57.15 48.26 0)
 			(effects
 				(font
@@ -13592,7 +13592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.802 62.23 90)
 			(effects
 				(font
@@ -13619,7 +13619,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 68.58 62.23 0)
 			(effects
 				(font
@@ -14261,7 +14261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 74.422 62.23 90)
 			(effects
 				(font
@@ -14288,7 +14288,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 76.2 62.23 0)
 			(effects
 				(font
@@ -14337,7 +14337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 42.418 90)
 			(effects
 				(font
@@ -14364,7 +14364,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06030000Z0EAC"
+		(property "manf#" "CRCW04020000Z0ED"
 			(at 57.15 40.64 0)
 			(effects
 				(font
@@ -14413,7 +14413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 57.658 90)
 			(effects
 				(font
@@ -14440,7 +14440,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06030000Z0EAC"
+		(property "manf#" "CRCW04020000Z0ED"
 			(at 57.15 55.88 0)
 			(effects
 				(font
@@ -14577,7 +14577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 69.342 62.23 90)
 			(effects
 				(font
@@ -14604,7 +14604,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 71.12 62.23 0)
 			(effects
 				(font
@@ -14896,7 +14896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 220.218 54.61 90)
 			(effects
 				(font
@@ -14923,7 +14923,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 218.44 54.61 0)
 			(effects
 				(font
@@ -15501,7 +15501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 44.958 90)
 			(effects
 				(font
@@ -15528,7 +15528,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06030000Z0EAC"
+		(property "manf#" "CRCW04020000Z0ED"
 			(at 57.15 43.18 0)
 			(effects
 				(font
@@ -16549,7 +16549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 39.878 90)
 			(effects
 				(font
@@ -16576,7 +16576,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06030000Z0EAC"
+		(property "manf#" "CRCW04020000Z0ED"
 			(at 57.15 38.1 0)
 			(effects
 				(font
@@ -16789,7 +16789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 242.062 54.61 90)
 			(effects
 				(font
@@ -16816,7 +16816,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 243.84 54.61 0)
 			(effects
 				(font
@@ -16869,7 +16869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.2452 68.58 0)
 			(effects
 				(font
@@ -16896,7 +16896,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "0603YC104JAT2A"
+		(property "manf#" "CL05B104KO5NNNC"
 			(at 81.28 72.39 0)
 			(effects
 				(font
@@ -17119,7 +17119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 61.722 62.23 90)
 			(effects
 				(font
@@ -17146,7 +17146,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 63.5 62.23 0)
 			(effects
 				(font
@@ -17572,7 +17572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 71.882 62.23 90)
 			(effects
 				(font
@@ -17599,7 +17599,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW060310K0FKEAC"
+		(property "manf#" "CRCW040210K0FKED"
 			(at 73.66 62.23 0)
 			(effects
 				(font
@@ -18443,7 +18443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 55.118 90)
 			(effects
 				(font
@@ -18470,7 +18470,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06030000Z0EAC"
+		(property "manf#" "CRCW04020000Z0ED"
 			(at 57.15 53.34 0)
 			(effects
 				(font
