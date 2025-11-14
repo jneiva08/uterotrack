@@ -6055,7 +6055,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW0402100KFKEDC"
+		(property "manf#" "CRCW0402100KFKED"
 			(at 40.64 107.95 0)
 			(effects
 				(font
@@ -6259,7 +6259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 199.39 42.418 90)
 			(effects
 				(font
@@ -6286,7 +6286,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06032K20FKEAC"
+		(property "manf#" "CRCW04022K20FKED"
 			(at 199.39 40.64 0)
 			(effects
 				(font
@@ -6490,7 +6490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 209.55 27.178 90)
 			(effects
 				(font
@@ -6517,7 +6517,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW0603330RFKEAC"
+		(property "manf#" "CRCW0402330RFKED"
 			(at 209.55 25.4 0)
 			(effects
 				(font
@@ -6762,7 +6762,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW0402100KFKEDC"
+		(property "manf#" "CRCW0402100KFKED"
 			(at 57.15 142.24 0)
 			(effects
 				(font
@@ -7545,7 +7545,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW0402100KFKEDC"
+		(property "manf#" "CRCW0402100KFKED"
 			(at 50.8 107.95 0)
 			(effects
 				(font
@@ -8599,7 +8599,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW0402100KFKEDC"
+		(property "manf#" "CRCW0402100KFKED"
 			(at 77.47 124.46 0)
 			(effects
 				(font
@@ -9524,7 +9524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 222.25 52.578 90)
 			(effects
 				(font
@@ -9551,7 +9551,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW08055M10FKEAC"
+		(property "manf#" "CRCW04025M10FKED"
 			(at 222.25 50.8 0)
 			(effects
 				(font
@@ -10312,7 +10312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 247.65 52.578 90)
 			(effects
 				(font
@@ -10339,7 +10339,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW08055M10FKEAC"
+		(property "manf#" "CRCW04025M10FKED"
 			(at 247.65 50.8 0)
 			(effects
 				(font
@@ -10415,7 +10415,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW040220K0FKEDC"
+		(property "manf#" "CRCW040220K0FKED"
 			(at 125.73 55.88 0)
 			(effects
 				(font
@@ -11597,7 +11597,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW0402100KFKEDC"
+		(property "manf#" "CRCW0402100KFKED"
 			(at 82.55 132.08 0)
 			(effects
 				(font
