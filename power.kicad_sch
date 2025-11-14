@@ -2159,7 +2159,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Sensor_Magnetic:AH1806-P"
+		(symbol "Sensor_Magnetic:AH1806-W"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2171,7 +2171,7 @@
 					)
 				)
 			)
-			(property "Value" "AH1806-P"
+			(property "Value" "AH1806-W"
 				(at 7.62 8.89 0)
 				(effects
 					(font
@@ -2179,8 +2179,8 @@
 					)
 				)
 			)
-			(property "Footprint" ""
-				(at 0 0 0)
+			(property "Footprint" "Package_TO_SOT_SMD:SC-59"
+				(at 13.97 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2197,7 +2197,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "High Sensitivity Micropower Omnipolar Hall-Effect Switch, SIP-3"
+			(property "Description" "High Sensitivity Micropower Omnipolar Hall-Effect Switch, SC-59"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2215,7 +2215,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Diodes*SIP*4.1x1.5mm*P1.27mm* Diodes*SIP*4.1x1.5mm*P2.65mm*"
+			(property "ki_fp_filters" "SC?59*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2224,7 +2224,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "AH1806-P_0_1"
+			(symbol "AH1806-W_0_1"
 				(rectangle
 					(start 5.08 7.62)
 					(end -5.08 -7.62)
@@ -2237,7 +2237,7 @@
 					)
 				)
 			)
-			(symbol "AH1806-P_1_1"
+			(symbol "AH1806-W_1_1"
 				(pin power_in line
 					(at 0 10.16 270)
 					(length 2.54)
@@ -2266,7 +2266,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2284,7 +2284,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5924,6 +5924,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Sensor_Magnetic:AH1806-W")
+		(at 30.48 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "16e2f498-8e2a-4ab9-ba26-c6e151bc435a")
+		(property "Reference" "U10"
+			(at 40.64 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "AH1806-W"
+			(at 46.99 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SC-59"
+			(at 44.45 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AH1806.pdf"
+			(at 30.48 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "High Sensitivity Micropower Omnipolar Hall-Effect Switch, SC-59"
+			(at 30.48 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "AH1806-W-7"
+			(at 30.48 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6009265b-b287-43ef-9b67-0f5d8515c41d")
+		)
+		(pin "3"
+			(uuid "026c9e12-cde9-4d4f-ba54-c35ae54ad7d0")
+		)
+		(pin "2"
+			(uuid "d5b5d184-965e-4e0c-a556-c47543a185fe")
+		)
+		(instances
+			(project ""
+				(path "/02cd0949-8d8d-4522-9baa-94804311f80f/6a4e3269-c311-4139-9dc3-6add873511e3"
+					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 109.22 116.84 180)
 		(unit 1)
@@ -7247,88 +7328,6 @@
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f/6a4e3269-c311-4139-9dc3-6add873511e3"
 					(reference "#PWR041")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Sensor_Magnetic:AH1806-P")
-		(at 30.48 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c7a11d7-c7c6-4cd2-a45c-e9084eab7a47")
-		(property "Reference" "U10"
-			(at 24.13 123.1899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "AH1806-P"
-			(at 24.13 125.7299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Sensor_Current:Diodes_SIP-3_4.1x1.5mm_P1.27mm"
-			(at 30.48 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AH1806.pdf"
-			(at 30.48 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 30.48 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "AH1806-P-B"
-			(at 30.48 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7bcd5294-11a9-49b5-9891-21d86e4af4e4")
-		)
-		(pin "2"
-			(uuid "76e64f72-5406-45ad-870f-f54413fd3d27")
-		)
-		(pin "3"
-			(uuid "8f29cb59-d301-4409-ad50-6660a3203061")
-		)
-		(instances
-			(project "uterotrack"
-				(path "/02cd0949-8d8d-4522-9baa-94804311f80f/6a4e3269-c311-4139-9dc3-6add873511e3"
-					(reference "U10")
 					(unit 1)
 				)
 			)
