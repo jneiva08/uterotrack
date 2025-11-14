@@ -125,4 +125,15 @@
 		(uuid "85327db2-cf13-49d5-beb5-776bc7103ec8")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/eda/kicad-packages3D/myDevices.3dshapes/keller_6LD.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
