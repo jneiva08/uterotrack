@@ -9321,7 +9321,7 @@
 		)
 		(uuid "258468ff-ad5e-46dd-a939-829f0cc7700b")
 	)
-	(label "I2C2_SCL"
+	(label "I2C1_SCL"
 		(at 48.26 154.94 0)
 		(effects
 			(font
@@ -9411,7 +9411,7 @@
 		)
 		(uuid "3c8d1424-e281-44f4-b7a9-acf680a529a3")
 	)
-	(label "I2C2_SDA"
+	(label "I2C1_SDA"
 		(at 48.26 157.48 0)
 		(effects
 			(font
@@ -9461,7 +9461,7 @@
 		)
 		(uuid "49892fb7-48bb-47e8-8a37-85a5eba57d0e")
 	)
-	(label "I2C1_SCL"
+	(label "I2C2_SCL"
 		(at 63.5 109.22 180)
 		(effects
 			(font
@@ -9571,7 +9571,7 @@
 		)
 		(uuid "756eab91-b796-4501-8638-c20efcdcc9bb")
 	)
-	(label "I2C1_SCL"
+	(label "I2C2_SCL"
 		(at 152.4 106.68 0)
 		(effects
 			(font
@@ -9711,7 +9711,7 @@
 		)
 		(uuid "9ac6c03a-6099-4e4e-9589-f85357a229b3")
 	)
-	(label "I2C1_SDA"
+	(label "I2C2_SDA"
 		(at 63.5 111.76 180)
 		(effects
 			(font
@@ -9761,7 +9761,7 @@
 		)
 		(uuid "a831637c-bc60-4714-8684-04632d30d9ff")
 	)
-	(label "I2C1_SDA"
+	(label "I2C2_SDA"
 		(at 152.4 109.22 0)
 		(effects
 			(font
@@ -14397,7 +14397,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b581097-72ad-441f-933e-8a0a2b0f4794")
-		(property "Reference" "R8"
+		(property "Reference" "R6"
 			(at 60.96 54.61 90)
 			(effects
 				(font
@@ -14458,7 +14458,7 @@
 		(instances
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f"
-					(reference "R8")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14878,7 +14878,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89e5f254-d156-4bf8-85a2-701507226b8d")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 215.9 55.8801 0)
 			(effects
 				(font
@@ -14941,7 +14941,7 @@
 		(instances
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -16771,7 +16771,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b22171e1-57b9-46d2-a29a-b9b552443fba")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 246.38 53.3399 0)
 			(effects
 				(font
@@ -16834,7 +16834,7 @@
 		(instances
 			(project "uterotrack"
 				(path "/02cd0949-8d8d-4522-9baa-94804311f80f"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
