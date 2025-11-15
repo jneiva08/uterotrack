@@ -7051,7 +7051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 105.918 64.77 90)
 			(effects
 				(font
@@ -7078,7 +7078,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CRCW06032K43FKEAC"
+		(property "manf#" "CRCW04022K43FKED"
 			(at 104.14 64.77 0)
 			(effects
 				(font
@@ -11152,7 +11152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:Texas_VQFN-RHL-20"
+		(property "Footprint" "Package_DFN_QFN:Texas_VQFN-RHL-20_ThermalVias"
 			(at 109.22 64.77 0)
 			(effects
 				(font
