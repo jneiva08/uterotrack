@@ -5,9 +5,10 @@
 	(uuid "26fefb07-0a3e-4e0b-8360-69b59c17a135")
 	(paper "A4")
 	(title_block
-		(title "Trident V3")
+		(title "UteroTrack")
 		(rev "1.0.0")
 		(company "ElectricBlue")
+		(comment 1 "JNeiva")
 	)
 	(lib_symbols
 		(symbol "Battery_Management:BQ297xy"

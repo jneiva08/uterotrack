@@ -5,9 +5,10 @@
 	(uuid "02cd0949-8d8d-4522-9baa-94804311f80f")
 	(paper "A3")
 	(title_block
-		(title "Trident V3")
-		(rev "1.0.1")
+		(title "UteroTrack")
+		(rev "1.0.0")
 		(company "ElectricBlue")
+		(comment 1 "JNeiva")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
